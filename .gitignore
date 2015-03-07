@@ -1,0 +1,11 @@
+.idea
+
+# VisualStudio files
+[Bb]in/
+[Oo]bj/
+
+# user-specific files
+*.suo
+
+# ignore downloaded packages
+**/packages/*
